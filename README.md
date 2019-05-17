@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IKNetworkModule
 
 [![CI Status](https://img.shields.io/travis/574068650@qq.com/IKNetworkModule.svg?style=flat)](https://travis-ci.org/574068650@qq.com/IKNetworkModule)
@@ -27,3 +28,6 @@ pod 'IKNetworkModule'
 ## License
 
 IKNetworkModule is available under the MIT license. See the LICENSE file for more info.
+=======
+# Galanz
+>>>>>>> dcad4556c088c52b9b2e53f385940f90a0b6303f

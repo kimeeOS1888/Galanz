@@ -1,0 +1,16 @@
+PODS:
+  - IKNetworkModule (0.1.0)
+
+DEPENDENCIES:
+  - IKNetworkModule (from `../`)
+
+EXTERNAL SOURCES:
+  IKNetworkModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IKNetworkModule: dd42208cd55fa930f1e2f8bace674d7323c4bef3
+
+PODFILE CHECKSUM: 9bdf10239e8c07287db015b73816ca1d2aa97a40
+
+COCOAPODS: 1.5.3

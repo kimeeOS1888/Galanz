@@ -1,0 +1,6 @@
+framework module IKNetworkModule {
+  umbrella header "IKNetworkModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
